@@ -1,6 +1,4 @@
-# MemoraDApp Next.js SDK
 
-![Memora Logo](https://avatars.githubusercontent.com/u/253210746?v=4)  
 
 [![Next.js](https://img.shields.io/badge/Next.js-13.5.4-black?logo=next.js)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-20.5-green?logo=node.js)](https://nodejs.org/)
